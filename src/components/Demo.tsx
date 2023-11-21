@@ -14,7 +14,7 @@ export const Demo = () => {
   const [allArticles, setAllArticles] = useState<Article[]>([]);
 
   const [getSummary, { error, isFetching }] = useLazyGetSummaryQuery();
-  console.log(allArticles);
+
   const handleSubmit = useCallback(
     async (e: FormEvent<HTMLFormElement>) => {
       e.preventDefault();

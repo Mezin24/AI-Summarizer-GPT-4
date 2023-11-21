@@ -1,4 +1,4 @@
-### [AI Summarizer]() - application with OpenAI's GPT model.
+### [AI Summarizer](https://imaginative-naiad-6cfea6.netlify.app/) - application with OpenAI's GPT model.
 
 ---
 
